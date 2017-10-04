@@ -1,0 +1,30 @@
+body{
+	background:url("photo1.jpg") no-repeat center center fixed;
+	background-size: cover;
+	padding: 0
+	margin: 0
+}
+
+h1,{
+	color: black;
+	text-align: center;
+	font-family: verdana;
+	padding: center;
+	
+}
+
+p1{
+	color: black;
+	text-align: justify;
+	font-family: fantasy;
+	font-size: 20px; 
+}
+
+a{
+	color: purple;
+	text-align: block;
+	font-family: verdana;
+	font-size: 20px;
+	align-content: space-between;	
+	pointer-events: auto;
+}
